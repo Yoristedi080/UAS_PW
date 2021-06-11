@@ -1,0 +1,190 @@
+.navbar-nav{
+	font-family: font2;
+	margin-left: 300px;
+	padding-right: 440px;
+}
+
+.nav-link{
+	margin-left: 3px;
+	font-size: 16px;
+}
+
+.nav-link:hover{
+	transition: 0.5s;
+	opacity: 0.6;
+}
+
+.nav-link dropdown-toggle:hover{
+	transition: 0.5s;
+	opacity: 0.6;
+}
+
+.navbar-brand{
+	font-family: font1;
+	margin-left: 300px;
+	padding-top: 20px;
+	font-size: 40px;
+}
+
+.login-box{
+	font-family: font3;
+	margin-left: 40px;
+	padding-top: 7px;
+	color: #000;
+	padding-bottom: 7px;
+	padding-left: 7px;
+	padding-right: 7px;
+	background-color: none;
+	border: 3px solid;
+}
+
+.login_form button{
+	font-size: 25px;
+	color: black;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 12px;
+	padding-right: 12px;
+	outline: none;
+	background: none;
+	border-radius: 8px;
+	border: 3px solid #0000;
+	transition: .5s;
+	font-family: font1;
+}
+
+.login_form button:hover{
+	font-size: 27px;
+	transition: .5s;
+	font-family: font1;
+}
+
+.box{
+	font-family: font3;
+	margin-left: 40px;
+	padding-top: 7px;
+	color: #000;
+	padding-bottom: 7px;
+	padding-left: 7px;
+	padding-right: 7px;
+	background-color: none;
+	border: 3px solid;
+}
+
+.brand1{
+	font-size: 60px;
+	color: black;
+	padding-top: 60px;
+	font-family: font1;
+	margin-left: 800px;
+}
+
+.featureteks{
+	font-size: 40px;
+	color: black;
+	padding-top: 40px;
+	font-family: font3;
+	margin-left: 850px;
+}
+
+.login-box:hover{
+	background-color: #000;
+	transition: 0.3s;
+	color: white;
+	border: 3px solid;
+	border-color: #000;
+}
+
+.signup-box{
+	font-family: font3;
+	padding-top: 7px;
+	color: #fff;
+	padding-bottom: 7px;
+	padding-left: 7px;
+	padding-right: 7px;
+	background-color: #000;
+	border: 3px solid;
+	border-color: #000;
+	text-decoration: none;
+}
+
+.signup-box:hover{
+	background-color: #0000;
+	transition: 0.3s;
+	border: 3px solid;
+	border-color: #0000;
+	color: black;
+}
+
+.card-img-top{
+	border-radius: 2%;
+	color: #dedede
+}
+
+.card1-img-top{
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	border-radius: 70%;
+}
+
+.card-body{
+	border-top: 2px solid;
+	border-radius: 2%;
+	padding: 7px;
+	border-color: #dedede;
+	background-color: #fbfbfb;
+}
+
+.card{
+	border: 2px solid;
+	border-color: #dedede;
+}
+
+.card-text{
+	padding: 6px;
+}
+
+.card-title{
+	padding: 6px;
+}
+
+.navbar-brand:hover{
+	opacity: 0.7;
+	transition: 0.4s;
+}
+
+.nav-link1{
+	padding-right: 30px;
+}
+
+@font-face{
+	font-family: font1;
+	src:url(font1.otf);
+}
+
+@font-face{
+	font-family: font2;
+	src:url(font2.ttf);
+}
+
+@font-face{
+	font-family: font3;
+	src:url(font3.ttf);
+}
+
+.carousel-item1{
+	height: 60vh;
+	min-height: 10px;
+	background: no-repeat scroll center scroll;
+	-webkit-background-size: cover;
+	background-size: fit;
+}
+
+.card-deck{
+	margin-top: 20px;
+	padding: 30px;
+}
+
+
